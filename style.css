@@ -1,0 +1,30 @@
+h1{
+    color:blue
+}
+
+.heder{
+    background-color:red;
+   
+    
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap: 5px;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+}
+body{
+    background-color: rgb(46, 204, 113);
+}
+.clase1{
+    display:flex;
+    justify-content: center;
+}
+.subtitulo{
+    font-family: 'Lucida Sans';
+}
